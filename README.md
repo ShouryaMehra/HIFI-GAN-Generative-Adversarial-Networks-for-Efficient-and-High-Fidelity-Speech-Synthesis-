@@ -49,4 +49,5 @@ We provide the universal model with discriminator weights that can be used as a 
 Generated wav files are saved in `generated_files` by default.
 You can change the path by adding `--output_dir` option.
 
+![validation_loss](https://user-images.githubusercontent.com/35097344/128376727-4fd4eee6-13a7-48b4-9afc-b961e246d7ed.png)
 
